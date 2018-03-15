@@ -1,3 +1,9 @@
+# Downloads
+
+Version | Link
+------- | ----
+1.0.0 | [Click Here](https://github.com/dodiayar/legogyro/releases/tag/v1.0.0)
+
 # What Is This?
 
 This is an app written with C#, is controlling your Lego MINDSTORMS EV3 robot to make your robot go straight with gyroscope.
