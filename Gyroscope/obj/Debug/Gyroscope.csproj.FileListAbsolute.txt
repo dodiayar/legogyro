@@ -1,0 +1,11 @@
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\bin\Debug\Gyroscope.exe.config
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\bin\Debug\Gyroscope.exe
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\bin\Debug\Gyroscope.pdb
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\obj\Debug\Gyroscope.csprojResolveAssemblyReference.cache
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\obj\Debug\Gyroscope.Form1.resources
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\obj\Debug\Gyroscope.Properties.Resources.resources
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\obj\Debug\Gyroscope.csproj.GenerateResource.Cache
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\obj\Debug\Gyroscope.csproj.CoreCompileInputs.cache
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\obj\Debug\Gyroscope.exe
+C:\Users\Doruk\Documents\Visual Studio 2017\Projects\Gyroscope\Gyroscope\obj\Debug\Gyroscope.pdb
