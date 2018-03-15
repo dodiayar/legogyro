@@ -3,6 +3,7 @@
 Version | Link
 ------- | ----
 1.0.0 | [Click Here](https://github.com/dodiayar/legogyro/releases/tag/v1.0.0)
+1.1.0 | [Click Here](https://github.com/dodiayar/legogyro/releases/tag/v1.1.0)
 
 # What Is This?
 
